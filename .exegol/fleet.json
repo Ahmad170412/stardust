@@ -1,1 +1,1 @@
-{"agents": {"Mac": {"hostname": "Mac", "first_seen": "2026-07-24T10:18:48Z", "executed_command_id": 0, "last_result": null, "last_ping": "2026-07-24T10:18:48Z"}}}
+{"agents": {"Mac": {"hostname": "Mac", "first_seen": "2026-07-24T10:18:48Z", "executed_command_id": 2, "last_result": {"status": "executed", "info": "test"}, "last_ping": "2026-07-24T10:18:49Z"}}}
