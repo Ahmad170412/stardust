@@ -1,7 +1,11 @@
 {
   "hostname": "Mac",
   "first_seen": "2026-07-24T10:08:29Z",
-  "executed_command_id": 0,
-  "last_result": null,
-  "last_ping": "2026-07-24T10:09:05Z"
+  "executed_command_id": 1,
+  "last_result": {
+    "status": "complete",
+    "target": "127.0.0.1",
+    "packets_sent": 60
+  },
+  "last_ping": "2026-07-24T10:09:46Z"
 }
