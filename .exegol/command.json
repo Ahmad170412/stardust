@@ -1,11 +1,1 @@
-{
-  "id": 2,
-  "target": {
-    "type": "all"
-  },
-  "command": "exec",
-  "params": {
-    "command": "echo HELLO"
-  },
-  "issued_at": "2026-07-24T11:18:11Z"
-}
+{"id": 0, "target": {"type": "all"}, "command": "null", "params": {}}
