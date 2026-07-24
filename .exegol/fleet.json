@@ -5,7 +5,8 @@
       "first_seen": "2026-07-24T11:19:00Z",
       "executed_command_id": 0,
       "last_result": null,
-      "last_ping": "2026-07-24T11:19:00Z"
+      "last_ping": "2026-07-24T11:19:02Z",
+      "unit_id": 1
     }
   }
 }
