@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "command": "exec",
+  "params": {
+    "command": "whoami"
+  },
+  "issued_at": "test"
+}
