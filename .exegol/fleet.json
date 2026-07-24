@@ -3,9 +3,14 @@
     "Mac": {
       "hostname": "Mac",
       "first_seen": "2026-07-24T10:45:15Z",
-      "executed_command_id": 0,
-      "last_result": null,
-      "last_ping": "2026-07-24T10:45:15Z"
+      "executed_command_id": 1,
+      "last_result": {
+        "status": "complete",
+        "stdout": "HELLO_FLEET\n",
+        "stderr": "",
+        "returncode": 0
+      },
+      "last_ping": "2026-07-24T10:45:17Z"
     }
   }
 }
