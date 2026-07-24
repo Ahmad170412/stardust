@@ -1,12 +1,8 @@
 {
-  "id": 2,
+  "id": 0,
   "target": {
-    "type": "one",
-    "unit_id": 999
+    "type": "all"
   },
-  "command": "exec",
-  "params": {
-    "command": "echo SHOULD_NOT_EXECUTE"
-  },
-  "issued_at": "2026-07-24T11:15:25Z"
+  "command": "null",
+  "params": {}
 }
