@@ -1,12 +1,11 @@
 {
-  "id": 2,
+  "id": 3,
   "target": {
-    "type": "one",
-    "unit_id": 999
+    "type": "all"
   },
   "command": "exec",
   "params": {
-    "command": "uptime"
+    "command": "uname -a"
   },
-  "issued_at": "2026-07-24T11:20:14Z"
+  "issued_at": "2026-07-24T11:20:28Z"
 }
