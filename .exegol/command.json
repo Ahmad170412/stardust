@@ -1,12 +1,11 @@
 {
-  "id": 1,
+  "id": 2,
   "target": {
-    "type": "one",
-    "unit_id": 1
+    "type": "all"
   },
   "command": "exec",
   "params": {
-    "command": "whoami"
+    "command": "echo HELLO"
   },
-  "issued_at": "2026-07-24T11:17:58Z"
+  "issued_at": "2026-07-24T11:18:11Z"
 }
