@@ -1,12 +1,11 @@
 {
-  "id": 2,
+  "id": 3,
   "target": {
-    "type": "one",
-    "unit_id": 999
+    "type": "all"
   },
   "command": "exec",
   "params": {
-    "command": "echo IGNORE"
+    "command": "echo HELLO_EVERYONE"
   },
-  "issued_at": "2026-07-24T11:16:50Z"
+  "issued_at": "2026-07-24T11:17:04Z"
 }
