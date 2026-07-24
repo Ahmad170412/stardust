@@ -1,13 +1,12 @@
 {
-  "id": 2,
+  "id": 3,
   "target": {
-    "type": "range",
-    "start": 3,
-    "end": 6
+    "type": "one",
+    "unit_id": 1
   },
-  "command": "exec",
+  "command": "shell",
   "params": {
-    "command": "uptime"
+    "session_id": "5feb19a9e380b85b"
   },
-  "issued_at": "2026-07-24T11:05:59Z"
+  "issued_at": "2026-07-24T11:06:04Z"
 }
