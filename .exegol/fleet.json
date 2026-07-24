@@ -3,9 +3,14 @@
     "Mac": {
       "hostname": "Mac",
       "first_seen": "2026-07-24T10:27:23Z",
-      "executed_command_id": 0,
-      "last_result": null,
-      "last_ping": "2026-07-24T10:27:23Z"
+      "executed_command_id": 1,
+      "last_result": {
+        "status": "executed",
+        "details": [
+          "script not found"
+        ]
+      },
+      "last_ping": "2026-07-24T10:27:25Z"
     }
   }
 }
