@@ -1,1 +1,1 @@
-{"id":1,"command":"bombard","params":{"target":"127.0.0.1","packet_size":1,"pps":1},"issued_at":"2026-07-24T10:00:00Z"}
+{"id":2,"command":"ghost","params":{},"issued_at":"2026-07-24T10:00:00Z"}
