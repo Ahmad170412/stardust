@@ -1,11 +1,8 @@
 {
-  "id": 3,
+  "id": 0,
   "target": {
     "type": "all"
   },
-  "command": "exec",
-  "params": {
-    "command": "echo HELLO_EVERYONE"
-  },
-  "issued_at": "2026-07-24T11:17:04Z"
+  "command": "null",
+  "params": {}
 }
