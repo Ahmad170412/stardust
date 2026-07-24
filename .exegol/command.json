@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "command": "exec",
+  "params": {
+    "command": "echo ISD_READY"
+  },
+  "issued_at": "test"
+}
