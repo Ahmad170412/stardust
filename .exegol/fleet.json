@@ -1,3 +1,10 @@
 {
-  "agents": {}
+  "agents": {
+    "test-agent-mbp": {
+      "hostname": "test-agent-mbp",
+      "unit_id": 1,
+      "executed_command_id": 0,
+      "last_ping": "2026-07-24T12:00:00Z"
+    }
+  }
 }
