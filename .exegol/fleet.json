@@ -2,7 +2,7 @@
   "agents": {
     "Mac": {
       "hostname": "Mac",
-      "first_seen": "2026-07-24T11:15:02Z",
+      "first_seen": "2026-07-24T11:16:29Z",
       "executed_command_id": 3,
       "last_result": {
         "status": "complete",
@@ -10,8 +10,7 @@
         "stderr": "",
         "returncode": 0
       },
-      "last_ping": "2026-07-24T15:50:18Z",
-      "unit_id": 1
+      "last_ping": "2026-07-24T15:50:29Z"
     }
   }
 }
