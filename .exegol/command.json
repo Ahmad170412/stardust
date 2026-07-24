@@ -1,12 +1,13 @@
 {
-  "id": 1,
+  "id": 2,
   "target": {
-    "type": "one",
-    "unit_id": 1
+    "type": "range",
+    "start": 3,
+    "end": 6
   },
   "command": "exec",
   "params": {
-    "command": "whoami"
+    "command": "uptime"
   },
-  "issued_at": "2026-07-24T11:05:54Z"
+  "issued_at": "2026-07-24T11:05:59Z"
 }
