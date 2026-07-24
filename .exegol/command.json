@@ -1,12 +1,12 @@
 {
-  "id": 1,
+  "id": 2,
   "target": {
     "type": "one",
-    "unit_id": 1
+    "unit_id": 999
   },
   "command": "exec",
   "params": {
-    "command": "whoami"
+    "command": "echo IGNORE"
   },
-  "issued_at": "2026-07-24T11:16:37Z"
+  "issued_at": "2026-07-24T11:16:50Z"
 }
