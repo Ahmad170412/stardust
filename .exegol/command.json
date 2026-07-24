@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "command": "exec",
+  "params": {
+    "command": "echo HELLO_FLEET"
+  },
+  "issued_at": "test"
+}
