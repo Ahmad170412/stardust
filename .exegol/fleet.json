@@ -2,11 +2,15 @@
   "agents": {
     "Mac": {
       "hostname": "Mac",
-      "first_seen": "2026-07-24T11:17:53Z",
-      "executed_command_id": 0,
-      "last_result": null,
-      "last_ping": "2026-07-24T11:17:53Z",
-      "unit_id": 1
+      "first_seen": "2026-07-24T11:16:29Z",
+      "executed_command_id": 3,
+      "last_result": {
+        "status": "complete",
+        "stdout": "HELLO_EVERYONE\n",
+        "stderr": "",
+        "returncode": 0
+      },
+      "last_ping": "2026-07-24T11:18:08Z"
     }
   }
 }
