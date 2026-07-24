@@ -1,8 +1,12 @@
 {
-  "id": 0,
+  "id": 1,
   "target": {
-    "type": "all"
+    "type": "one",
+    "unit_id": 1
   },
-  "command": "null",
-  "params": {}
+  "command": "exec",
+  "params": {
+    "command": "echo HELLO_FROM_XYSTON"
+  },
+  "issued_at": "2026-07-24T11:15:11Z"
 }
