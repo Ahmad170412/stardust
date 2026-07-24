@@ -1,12 +1,8 @@
 {
-  "id": 3,
+  "id": 0,
   "target": {
-    "type": "one",
-    "unit_id": 1
+    "type": "all"
   },
-  "command": "shell",
-  "params": {
-    "session_id": "5feb19a9e380b85b"
-  },
-  "issued_at": "2026-07-24T11:06:04Z"
+  "command": "null",
+  "params": {}
 }
