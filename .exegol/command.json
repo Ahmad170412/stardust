@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "target": {
+    "type": "one",
+    "unit_id": 1
+  },
+  "command": "exec",
+  "params": {
+    "command": "whoami"
+  },
+  "issued_at": "2026-07-24T11:05:54Z"
+}
